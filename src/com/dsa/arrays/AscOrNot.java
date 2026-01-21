@@ -3,7 +3,7 @@ package com.dsa.arrays;
 public class AscOrNot {
 
 	public static void main(String[] args) {
-		int[] arr= {11,13,23,27,3};
+		int[] arr= {11,13,23,27,33};
 		
 		boolean isSorted=true;
 		for(int i=0;i<arr.length-1;i++) {
